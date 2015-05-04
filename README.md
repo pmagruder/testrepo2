@@ -1,2 +1,3 @@
 # testrepo2
-Second test
+. Second test
+. Line two
