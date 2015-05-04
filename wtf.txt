@@ -2,3 +2,4 @@ this is a test:
 with another line
 in example
 master
+master add
