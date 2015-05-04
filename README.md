@@ -1,3 +1,4 @@
 # testrepo2
-. Second test
-. Line two
+* Second test
+* Line two
+* * indent?
